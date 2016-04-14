@@ -87,16 +87,16 @@
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.Location = new System.Drawing.Point(15, 106);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(389, 12);
+            this.linkLabel1.Size = new System.Drawing.Size(305, 12);
             this.linkLabel1.TabIndex = 4;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "https://github.com/WengShengyuan/MyCharpApp/tree/master/VFPInprt";
+            this.linkLabel1.Text = "https://github.com/WengShengyuan/VPFRegistetHelper";
             // 
             // AboutForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(414, 141);
+            this.ClientSize = new System.Drawing.Size(364, 141);
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
